@@ -1,6 +1,7 @@
 import React from 'react';
 import Navbar from './components/Navbar';
 import Image from 'next/image';
+import Link from 'next/link';
 import "./home.css"
 const Page = () => {
   return (
@@ -17,10 +18,11 @@ const Page = () => {
             </h1>
             <div className='flex mt-10 justify-evenly md:justify-evenly'>
               <button className='rounded-3xl w-28 p-3 bg-black hover:bg-slate-800 text-white mr-4'>
-                Login
+                <Link href={"/login"}> Login</Link>
+               
               </button>
               <button className='rounded-3xl w-28 p-3 bg-black hover:bg-slate-800 text-white'>
-                Signup
+              <Link href={"/signup"}> Signup</Link>
               </button>
             </div>
             <div className='text-center mx-12  mt-8'>
