@@ -2,22 +2,16 @@ import React from 'react'
 import NavLink from './NavLink'
 
 const navLinks = [
+  
   {
-    title: "Home",
-    path: "#home",
-  },
-  {
-    title: "About",
-    path: "#about",
-  },
-  {
-    title: "Projects",
-    path: "#projects",
+    title: "Communities",
+    path: "#communities",
   },
   {
     title: "Contact",
     path: "#contact",
   },
+  
 ];
 
 const MenuOverlay = () => {

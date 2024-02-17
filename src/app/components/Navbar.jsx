@@ -9,10 +9,7 @@ import { IoMdMenu } from "react-icons/io";
 import { ImCross } from "react-icons/im";
 
 const navLinks = [
-  {
-    title: "Home",
-    path: "#home",
-  },
+  
     {
       title: "Communities",
       path: "#communities",

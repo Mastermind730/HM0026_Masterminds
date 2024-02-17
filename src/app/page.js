@@ -42,8 +42,26 @@ const Page = () => {
             </div>
           </div>
         </div>
-        <div>
-          <h1></h1>
+        <div className='mt-20'>
+          <h1 className='text-center text-6xl font-bold text-black mt-20'>Upcoming Events this month</h1>
+        </div>
+        <div className='bg-gray-100 w-full h-full'>
+        <h1 className='text-left text-6xl font-semibold text-black mt-20'>ARTIMAS</h1>
+        <div className='event_card mt-4'>
+        <div className="relative ml-6 ">
+              <Image
+                src={"/images/aimsa.jpg"} // Replace with your image path
+                alt="hero image"
+                className="rounded-3xl"
+                width={500}
+                height={500}
+              />
+            </div>
+            <div>
+              <p className=' mx-5  font-medium text-4xl text-black '>Date : 22nd Feb 2024 at 9 AM IST</p>
+              <a href="#" className="text-blue-700 font-semibold mx-5 underline">Register Now</a>
+            </div>
+        </div>
         </div>
       </div>
     </main>
