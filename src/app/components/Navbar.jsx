@@ -14,13 +14,10 @@ const navLinks = [
     path: "#home",
   },
     {
-      title: "About",
-      path: "#about",
+      title: "Communities",
+      path: "#communities",
     },
-    {
-      title: "Projects",
-      path: "#projects",
-    },
+    
     {
       title: "Contact",
       path: "#contact",
@@ -32,7 +29,9 @@ const Navbar = () => {
     <nav className='fixed mx-auto top-0 right-0 bg-[#121212] bg-opacity-100 left-0 opacity-80 z-10 '>
         
         <div className='flex container lg:py-4 flex-wrap items-center justify-between mx-auto px-4 py-2'>
-            <Link href={'/'} className=' text-2xl md:text-4-xl lg: text-6-xl sm:text-2xl'>LOGO</Link>
+          
+         
+            <Link href={'/'} className=' text-2xl md:text-4-xl lg: text-6-xl sm:text-2xl'>Volunity</Link>
             <div className="mobile-menu block md:hidden">
           {!navbarOpen ? (
             <button
@@ -74,6 +73,8 @@ const Navbar = () => {
             </div>
             {navbarOpen?<MenuOverlay/>:null}
         </div>
+        <hr/>
+
     </nav>
   )
 }
