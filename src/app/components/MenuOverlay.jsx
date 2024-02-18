@@ -5,11 +5,11 @@ const navLinks = [
   
   {
     title: "Communities",
-    path: "#communities",
+    path: "/community",
   },
   {
     title: "Contact",
-    path: "#contact",
+    path: "/contact",
   },
   
 ];
