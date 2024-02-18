@@ -12,7 +12,7 @@ const navLinks = [
     
     {
       title: "Communities",
-      path: "/communities",
+      path: "/community",
     },
     
     {
