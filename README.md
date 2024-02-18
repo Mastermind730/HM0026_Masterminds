@@ -41,6 +41,9 @@ The website culminates in a help/support center, offering resources such as FAQs
 ![alt text](image-1.png)
 ![alt text](image-3.png)
 ![alt text](image-4.png)
+![Screenshot (62)](https://github.com/Mastermind730/HM0026_Masterminds/assets/147189485/b89a5acc-ead9-4567-8171-42c405279343)
+
+
 
 ## Deployed Url
 https://hm-0026-masterminds-f1bs.vercel.app/
