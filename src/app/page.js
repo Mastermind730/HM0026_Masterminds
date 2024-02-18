@@ -48,7 +48,7 @@ const Page = () => {
           <h1 className='text-center text-6xl font-bold text-black mt-20'>Upcoming Events this month</h1>
         </div>
         <div className='bg-gray-100 w-full h-full'>
-  <h1 className='text-left text-6xl font-semibold text-black mt-20'>ARTIMAS</h1>
+  <h1 className='text-left text-6xl font-semibold text-black mt-20'>ARTIMUS</h1>
   <div id="start" className='event_card mt-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8'>
     <div className="relative mx-6 md:mx-0">
       <Image
