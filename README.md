@@ -41,7 +41,6 @@ The website culminates in a help/support center, offering resources such as FAQs
 ![alt text](image-1.png)
 ![alt text](image-3.png)
 ![alt text](image-4.png)
-![image](https://github.com/Mastermind730/HM0026_Masterminds/assets/147189485/0f37062e-8987-4219-92cc-86658d5ba97b)
 ![Screenshot (62)](https://github.com/Mastermind730/HM0026_Masterminds/assets/147189485/b89a5acc-ead9-4567-8171-42c405279343)
 
 
