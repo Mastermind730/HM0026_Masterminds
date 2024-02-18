@@ -50,7 +50,7 @@ const Page = () => {
         <div className='bg-gray-100 w-full h-full'>
   <h1 className='text-left text-6xl font-semibold text-black mt-20'>ARTIMUS</h1>
   <div id="start" className='event_card mt-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8'>
-    <div className="relative mx-6 md:mx-0">
+    <div className="relative mx-6 md:mx-4">
       <Image
         src={"/images/aimsa.jpg"} // Replace with your image path
         alt="hero image"
