@@ -50,8 +50,8 @@ https://hm-0026-masterminds-f1bs.vercel.app/
 
 
 ## Video Url
-[Link to Demo Video](video_url)
-
+[[Link to Demo Video](video_url)
+](https://www.canva.com/design/DAF9Gznh1Oc/AZfn6CJb6CvSkfjyjeykhQ/edit?utm_content=DAF9Gznh1Oc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
