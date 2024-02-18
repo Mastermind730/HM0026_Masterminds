@@ -13,7 +13,7 @@ const Page = () => {
           <div className='community_cards  mt-10 mx-4 sm:mx-0'>
             <Image
               className="mr-2"
-              src={"/images/Logo.png"}
+              src={"/images/cs.jpg"}
               alt="logo"
               width={250}
               height={250}
@@ -23,7 +23,7 @@ const Page = () => {
           <div className='community_cards mt-10 mx-4 sm:mx-0'>
             <Image
               className="mr-2"
-              src={"/images/cs.jpg"}
+              src={"/images/mech.png"}
               alt="logo"
               width={250}
               height={250}
