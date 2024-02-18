@@ -1,33 +1,52 @@
 # Website for artimas hackathon
-
-## Table of contents
-1. [Overview](#overview)
-2. [Project Setup](#projectsetup)
-3. [Contribution Guidelines](#contribution)
-4. [Contributing to the Repository](#ContributingtotheRepository)
+# [HM0026] [Masterminds]
 
 
+# Problem Statement
+ Develop a platform for efficient college community management, volunteering Recruitment, and
+Meaningful Connections.
+Description -
+Develop a platform for college clubs and communities to manage their organizations and events, recruit
+new volunteers, and engage with other communities. The platform should offer a seamless way for
+communities to discover and connect with like-minded volunteers by finding organizations or their
+interests. Additionally, it should allow volunteers to explore various communities and connect with their
+preferred community.
+
+## Description
+The envisioned website is a dynamic platform designed to enhance the college community experience by connecting students through diverse clubs and communities. The home page welcomes users with featured events, providing a glimpse into the vibrant campus life. The "Explore Communities" section empowers users to discover and join clubs based on shared interests.
+
+Upon selecting a community, the dedicated dashboard showcases its activities, events, and members, fostering collaboration and engagement. Volunteers can manage their involvement through a personalized dashboard, receiving notifications for relevant opportunities. The website's event management system streamlines event creation and participation, ensuring seamless coordination within communities.
+
+The recruitment section facilitates collaboration by allowing communities to post volunteer opportunities, connecting them with individuals possessing matching skills and interests. A robust messaging/chat feature promotes communication, both one-on-one and within community-wide discussions.
+
+User profiles serve as dynamic portfolios, showcasing personal information, community affiliations, and a comprehensive activity log. An admin panel empowers administrators with tools for community and event management, content moderation, and insightful analytics.
+
+The website culminates in a help/support center, offering resources such as FAQs, contact information, and user guides to ensure a user-friendly experience. In essence, this platform fosters a sense of community, collaboration, and shared purpose, enriching the college experience for all.
 
 
-<a name = "projectsetup"></a>
-## How to set up the project locally 🚀
-1. Install npm (If already installed skip this step. Feel stuck? refer https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
-2. Clone the respository - 
- ```bash 
-   git clone https://github.com/Mastermind730/HM0026_Masterminds.git
- ```
-3. Open repository file in you preferred IDE.
-4. Install dependencies by using - 
-```bash
-npm i
-```
-5. Run the development server with 
-```bash
-npm start
-```
+## Features
+- Login/Signup functionality
+- Abilty to show all the clubs of college department wise
+- Shows real time upcoming events of the college
 
 
-<a name = "contribution"></a>
+## Tech Stack
+- Next Js
+- Mongo DB
+- JWT
+- Crypto Js
+
+## Deployed Url
+https://hm-0026-masterminds-f1bs.vercel.app/
+
+
+## Video Url
+[Link to Demo Video](video_url)
+
+
+
+
+<!-- <a name = "contribution"></a>
 ## Contribution Guidelines 📃
 
 1. To contribute to the codebase, please create a new branch for your changes and submit a pull request (PR) once the changes are complete.
@@ -95,7 +114,7 @@ Thank you for considering contributing to our repository! Here's how you can get
     ```bash
     git branch -d github_username/your-feature-name
 
-Thank you for your contributions!
+Thank you for your contributions! -->
 
 
 
